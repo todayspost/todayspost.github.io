@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Todays Post
 
-You can use the [editor on GitHub](https://github.com/todayspost/todayspost.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are still currently under construction but feel free to visit us at a later time in order to get more information on the latest trends and popular themes in todays culture! 
 
 ### Markdown
 
