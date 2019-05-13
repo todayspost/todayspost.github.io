@@ -9,7 +9,7 @@ We are still currently under construction but feel free to visit us at a later t
 ```markdown
 Syntax highlighted code block
 
-# How Soldiers Are Protecting The Amazon Rainforest From Harm
+# Header 1
 ## Header 2
 ### Header 3
 
@@ -26,7 +26,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## How Soldiers Are Protecting The Amazon Rainforest From Harm
+### Gold minning: The Affect on The Ecosystem
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/todayspost/todayspost.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
