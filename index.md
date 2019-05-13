@@ -2,9 +2,9 @@
 
 We are still currently under construction but feel free to visit us at a later time in order to get more information on the latest trends and popular themes in todays culture! 
 
-### Markdown
+### View The World
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="38231-2560x1600.jpg" /> 
 
 ```markdown
 Syntax highlighted code block
