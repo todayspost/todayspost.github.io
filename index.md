@@ -26,8 +26,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## How Soldiers Are Protecting The Amazon Rainforest From Harm
-### Gold minning: The Affect on The Ecosystem
+# How Soldiers Are Protecting The Amazon Rainforest From Harm
+## Gold minning: The Affect on The Ecosystem
 
 While shifting through the rain forest, two French Guiana units hope to knock out anyone attempting to harm the forest for its riches.The Ecosystem is suffering and the trops are here to stop it. "Every country must defend its borders and stop illegal trafficking..."
 ### Read More
