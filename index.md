@@ -29,8 +29,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ## How Soldiers Are Protecting The Amazon Rainforest From Harm
 ### Gold minning: The Affect on The Ecosystem
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/todayspost/todayspost.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+Manoeuvring through the forest, the two units hope to flush out anyone attempting to plunder the forest for its riches. "Every country must defend its borders and stop illegal trafficking...
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
