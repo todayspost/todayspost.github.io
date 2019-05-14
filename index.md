@@ -29,7 +29,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ## How Soldiers Are Protecting The Amazon Rainforest From Harm
 ### Gold minning: The Affect on The Ecosystem
 
-Manoeuvring through the forest, the two units hope to flush out anyone attempting to plunder the forest for its riches. "Every country must defend its borders and stop illegal trafficking...
-### Support or Contact
+While shifting through the rain forest, two French Guiana units hope to knock out anyone attempting to harm the forest for its riches.The Ecosystem is suffering and the trops are here to stop it. "Every country must defend its borders and stop illegal trafficking..."
+### Read More
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ Check out the rest of the article [here](https://www.bbc.com/news/world-latin-america-48187766)
